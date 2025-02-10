@@ -1,0 +1,16 @@
+{"time":"2024-12-12T17:37:22.61866+01:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-12T17:37:22.61872+01:00","level":"INFO","msg":"created symlink","path":"/Users/lilian/Documents/projet-kaggle/projet-kaggle/wandb/run-20241212_173722-jzgyka3d/logs/debug-core.log"}
+{"time":"2024-12-12T17:37:22.732672+01:00","level":"INFO","msg":"created new stream","id":"jzgyka3d"}
+{"time":"2024-12-12T17:37:22.73286+01:00","level":"INFO","msg":"stream: started","id":"jzgyka3d"}
+{"time":"2024-12-12T17:37:22.733014+01:00","level":"INFO","msg":"handler: started","stream_id":"jzgyka3d"}
+{"time":"2024-12-12T17:37:22.733082+01:00","level":"INFO","msg":"sender: started","stream_id":"jzgyka3d"}
+{"time":"2024-12-12T17:37:22.733083+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"jzgyka3d"}
+{"time":"2024-12-12T17:37:23.135243+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-12T17:38:06.981544+01:00","level":"INFO","msg":"stream: closing","id":"jzgyka3d"}
+{"time":"2024-12-12T17:38:06.982066+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-12T17:38:06.982763+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-12T17:38:07.617704+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-12T17:38:07.893753+01:00","level":"INFO","msg":"handler: closed","stream_id":"jzgyka3d"}
+{"time":"2024-12-12T17:38:07.893776+01:00","level":"INFO","msg":"sender: closed","stream_id":"jzgyka3d"}
+{"time":"2024-12-12T17:38:07.893778+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"jzgyka3d"}
+{"time":"2024-12-12T17:38:07.894103+01:00","level":"INFO","msg":"stream: closed","id":"jzgyka3d"}

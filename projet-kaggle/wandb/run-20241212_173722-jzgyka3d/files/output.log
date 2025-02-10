@@ -1,0 +1,4 @@
+/opt/anaconda3/envs/projet-kaggle/lib/python3.11/site-packages/torch/optim/lr_scheduler.py:62: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn(
+Epoch 1/1, Loss: 0.2417934146781945, Accuracy: 0.9027259829160057
+Fichier de soumission sauvegardé : submission.csv

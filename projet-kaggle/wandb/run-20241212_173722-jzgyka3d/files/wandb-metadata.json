@@ -1,0 +1,45 @@
+{
+  "os": "macOS-15.1-arm64-arm-64bit",
+  "python": "CPython 3.11.10",
+  "startedAt": "2024-12-12T16:37:22.616290Z",
+  "program": "/Users/lilian/Documents/projet-kaggle/projet-kaggle/main.py",
+  "codePath": "Documents/projet-kaggle/projet-kaggle/main.py",
+  "git": {
+    "remote": "https://github.com/L-Agenza/Support-Resamare.git",
+    "commit": "45cbcf1f37d3cc6aa62d944d584a157da97b662a"
+  },
+  "email": "lilian.hurst2004@gmail.com",
+  "root": "/Users/lilian/Documents/projet-kaggle/projet-kaggle",
+  "host": "MacBook-Air-de-Lilian.local",
+  "username": "lilian",
+  "executable": "/opt/anaconda3/envs/projet-kaggle/bin/python",
+  "codePathLocal": "main.py",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "277241597952"
+    },
+    "/System/Volumes/Data": {
+      "total": "494384795648",
+      "used": "277241597952"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 8
+  },
+  "apple": {
+    "name": "Apple M1",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 7,
+    "memoryGb": 16,
+    "swapTotalBytes": "2147483648",
+    "ramTotalBytes": "17179869184"
+  }
+}
